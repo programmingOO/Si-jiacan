@@ -1,0 +1,22 @@
+应用背景：用于未知环境探索的群智近地机器人  
+      参考文献：[1] file:///C:/Users/duana/Downloads/SpecialIssue_Proposal.pdf
+               [2] https://arxiv.org/pdf/1801.10043.pdf
+               [3] Multi-robot search for a moving target: Integrating world modeling, task assignment and context
+               [4] https://infoscience.epfl.ch/record/225318/files/environmental-monitoring-autonomous.pdf
+               [5] Multi-robot Task Allocation: A Review of the State-of-the-Art
+               [6] https://arxiv.org/pdf/1705.04010.pdf
+               [7] https://wyss.harvard.edu/technology/programmable-robot-swarms/
+               [8] Autonomous robotic fish for a swarm environment
+               [9] https://www.sciencedirect.com/science/article/pii/S221491471300024X
+               [10] https://ac.els-cdn.com/S221491471300024X/1-s2.0-S221491471300024X-main.pdf?_tid=8bc4f38c-0a4a-11e8-92b6-00000aab0f26&acdnat=1517817773_f537916481e3c78b197bbde3e3882a6b
+               [11] 相对定位与robot swarm https://infoscience.epfl.ch/record/64716/files/JP_icra06.pdf
+      扩展的参考文献： 【1】基于ROS的群智机器人仿真工具：https://www.researchgate.net/post/Best_3D_Simulators_for_Multi-Robot_Systems_in_ROS
+                [2] www.mdpi.com/2218-6581/6/3/21/pdf
+                [3] https://arxiv.org/pdf/1402.7050.pdf
+                [4] file:///C:/Users/duana/Downloads/robotics-06-00021-v2.pdf
+                [5] http://www.argos-sim.info/stuff/ARGoS-Linux4You.pdf
+                [6] https://www.researchgate.net/post/What_is_the_best_simulator_for_heterogeneous_multi-robot_systems
+技术问题：相对定位和协作通信，设计和验证需要近地通信模型。
+参考文献：近地的研究最近收到了广泛的关注，我们的近地机器人的天线高度比较低，所以天线高度height是从0cm-20cm的，目前不多。
+本文的贡献：
+  
