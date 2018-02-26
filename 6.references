@@ -2,6 +2,7 @@
 [2] Pugh J, Martinoli A. Relative localization and communication module for small-scale multi-robot systems[C]//Robotics and Automation, 2006. ICRA 2006. Proceedings 2006 IEEE International Conference on. IEEE, 2006: 188-193.
 [3] Mani V V, Bose R. Direction of arrival estimation of Multiple UWB Signals[J]. Wireless Personal Communications, 2011, 57(2): 277-289.
 [4] Guo K, Qiu Z, Meng W, et al. Ultra-wideband based cooperative relative localization algorithm and experiments for multiple unmanned aerial vehicles in GPS denied environments[J]. International Journal of Micro Air Vehicles, 2017, 9(3): 169-186.
+[5] Merrill W M, Liu H L N, Leong J, et al. Quantifying short-range surface-to-surface communications links[J]. IEEE Antennas and Propagation Magazine, 2004, 46(3): 36-46.
 信道模型：
-[5] Near-Ground Channel Modeling for Distributed Cooperative Communications  ：用菲涅尔区理论解释建立一个具有通用性的信道模型
+[6] Near-Ground Channel Modeling for Distributed Cooperative Communications  ：用菲涅尔区理论解释建立一个具有通用性的信道模型
 [6] Measurements and Modeling of Path Loss over Irregular Terrain for Near-Ground and Short-Range Communications:2017
