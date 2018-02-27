@@ -4,5 +4,11 @@
 [4] Guo K, Qiu Z, Meng W, et al. Ultra-wideband based cooperative relative localization algorithm and experiments for multiple unmanned aerial vehicles in GPS denied environments[J]. International Journal of Micro Air Vehicles, 2017, 9(3): 169-186.
 [5] Merrill W M, Liu H L N, Leong J, et al. Quantifying short-range surface-to-surface communications links[J]. IEEE Antennas and Propagation Magazine, 2004, 46(3): 36-46.
 信道模型：
-[6] Near-Ground Channel Modeling for Distributed Cooperative Communications  ：用菲涅尔区理论解释建立一个具有通用性的信道模型
-[6] Measurements and Modeling of Path Loss over Irregular Terrain for Near-Ground and Short-Range Communications:2017
+[6] Torabi A, Zekavat S A. Near-ground channel modeling for distributed cooperative communications[J]. IEEE Transactions on Antennas and Propagation, 2016, 64(6): 2494-2502. 
+[7] Hugine A, Volos H I, Gaeddert J, et al. Measurement and characterization of the near-ground indoor ultra wideband channel[C]//Wireless Communications and Networking Conference, 2006. WCNC 2006. IEEE. IEEE, 2006, 2: 1062-1067.
+[8] Joshi G G, Dietrich C B, Anderson C R, et al. Near-ground channel measurements over line-of-sight and forested paths[J]. IEE Proceedings-Microwaves, Antennas and Propagation, 2005, 152(6): 589-596.
+[9] Landolsi M A, Muqaibel A H, Al-Ahmari A S, et al. Performance Analysis of Time-of-Arrival Mobile Positioning in Wireless Cellular CDMA Networks[M]//Trends in Telecommunications Technologies. InTech, 2010.
+[10] Zhao M, Wu M, Yu D. 2.35 GHz Near Ground Wideband Channel Measurement and Characterization[J]. JOURNAL OF INFORMATION &COMPUTATIONAL SCIENCE, 2013, 10(2): 335-343.
+
+[6] ：用菲涅尔区理论解释建立一个具有通用性的信道模型
+Measurements and Modeling of Path Loss over Irregular Terrain for Near-Ground and Short-Range Communications:2017
